@@ -2,7 +2,7 @@
 [![PyPI](https://img.shields.io/pypi/v/torch.svg)](https://pypi.org/project/torch/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 
-# building a Small Language Model(SLM) from Scratch 
+# Building a Small Language Model(SLM) from Scratch 
 
 A step-by-step Jupyter Notebook demonstrating how to build and train a compact small language model (“SLM”) from scratch using the **TinyStories** dataset. Covers data preparation, BPE tokenization, efficient binary storage, GPU memory locking, Transformer architecture, training configuration, and sample text generation.
 
